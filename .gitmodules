@@ -1,3 +1,6 @@
 [submodule "BackEnd-PetShop"]
 	path = BackEnd-PetShop
 	url = https://github.com/lucasptrick/BackEnd-PetShop.git
+[submodule "FrontEndSubModulo"]
+	path = FrontEndSubModulo
+	url = https://github.com/lucasptrick/FrontEnd-Petshop.git
